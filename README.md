@@ -1,4 +1,4 @@
-# Spotify Crack - Chrome App
+# Spotify Crack - Chromium Based
 
 > Updated to the newest Spotify web version!
 
